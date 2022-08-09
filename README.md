@@ -1,6 +1,6 @@
 # colocho_store
 
-A new Flutter project.
+Proyecto del curso Programacion de dispositivos mobiles para aprender sobre Flutter
 
 ## Getting Started
 
