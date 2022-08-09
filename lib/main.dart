@@ -1,5 +1,4 @@
-import 'package:colocho_store/home.dart';
-import 'package:colocho_store/login.dart';
+import 'login.dart';
 import 'package:flutter/material.dart'; //Cupertino es la librería para diseñar IOS, material para android
 
 void main() {
